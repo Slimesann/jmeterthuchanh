@@ -1,6 +1,6 @@
 1.Mục tiêu:
 
--Sử dụng jMeter để tạo một kịch bản kiểm tra mô phỏng người dùng truy cập trang web https://phenikaa-uni.edu.vn/vi.
+-Sử dụng jMeter để tạo một kịch bản kiểm tra mô phỏng người dùng truy cập trang web [https://phenikaa-uni.edu.vn/vi.](http://localhost/SoftwareTechnologyBigProject-main/PHP)
 
 -Chạy kịch bản kiểm tra và ghi lại kết quả.
 
